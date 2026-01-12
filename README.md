@@ -34,7 +34,7 @@
 
 ![Sérgio Lucas' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Sergio-Lucass&show_icons=true&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sergio-Lucass-2005&layout=compact&langs_count=7&theme=tokyoight)
+![Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sergio-Lucass&layout=compact&langs_count=7&theme=tokyoight)
 
 
 
