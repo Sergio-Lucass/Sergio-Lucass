@@ -27,14 +27,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width= "100px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width= "100px">
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 48 48">
-<path fill="#e64a19" d="M7 12L29 4 41 7 41 41 29 44 7 36 29 39 29 10 15 13 15 33 7 36z"></path>
-</svg>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="100px" />
 </p>
 
 ------
 
 ![Sérgio Lucas' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Sergio-Lucass&show_icons=true&theme=tokyonight)
+
+![Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sergio-Lucass-2005&layout=compact&langs_count=7&theme=tokyoight)
+
 
 
 <!--
