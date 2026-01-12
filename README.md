@@ -1,7 +1,7 @@
-<center><h2>☁️Sejam Bem-Vindos ao Meu Git Hub!☁️</h2></center>
+<center><h1>☁️Sejam Bem-Vindos ao Meu Git Hub!☁️</h1></center>
 
 <p align="center">
-  <img src="https://media.tenor.com/8hfmcs2bibwAAAAd/super-hero-gohan.gif" alt="Gif Gohan" width="600">
+  <img src="https://media.tenor.com/8hfmcs2bibwAAAAd/super-hero-gohan.gif" alt="Gif Gohan" width="500">
 </p>
 
 -------
@@ -14,27 +14,27 @@
 
 ### Técnologias que estou aprendendo  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px" align="left"> **Python:** Linguagem que estou aprendendo para ciência de dados.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70px" align="left"> **Python:** Linguagem que estou aprendendo para ciência de dados.
 <br clear="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg
-" width="100px" align="left"> **SQL:** Aprendendo para utilizar, manipular e consultar grandes volumes de dados.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="70px" align="left"> **SQL:** Aprendendo para utilizar, manipular e consultar grandes volumes de dados.
 <br clear="left">
 
 -----
 
 ### Técnologias que tenho conhecimento iniciante/intermediário
 
+<p align = "center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width= "100px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width= "100px">
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 48 48">
 <path fill="#e64a19" d="M7 12L29 4 41 7 41 41 29 44 7 36 29 39 29 10 15 13 15 33 7 36z"></path>
 </svg>
+</p>
 
 ------
 
-![Sérgio Lucas' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Sergio-Lucass&show_icons=true&theme=radical)
+![Sérgio Lucas' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Sergio-Lucass&show_icons=true&theme=tokyonight)
 
 
 <!--
