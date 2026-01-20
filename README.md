@@ -24,16 +24,17 @@
 ### Técnologias que tenho conhecimento iniciante/intermediário
 
 <p align = "center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width= "100px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width= "100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width= "70px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width= "70px">
 
 
 ------
 
-![Sérgio Lucas' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Sergio-Lucass&show_icons=true&theme=tokyonight)
-
-![Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sergio-Lucass&layout=compact&langs_count=7&theme=tokyoight)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sergio-Lucass&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sergio-Lucass&layout=compact&langs_count=7&theme=tokyonight" height="170" />
+</p>
 
 
 
