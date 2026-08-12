@@ -7,7 +7,7 @@
 -------
 
 😃 Olá, me chamo Sérgio Lucas!<br>
-💬 Sou estudante de programação e estou no 3°p em Ciência da Computação!<br>
+💬 Sou estudante de programação e estou no 4°p em Ciência da Computação!<br>
 📫[ Acesse o meu Linkedin](https://www.linkedin.com/in/s%C3%A9rgio-lucas/)
 
  ----
